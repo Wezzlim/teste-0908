@@ -1,0 +1,14 @@
+C:\Users\wesley.slima15\source\repos\TI45-08-08-2024\TI45-08-08-2024\bin\Debug\TI45-08-08-2024.exe.config
+C:\Users\wesley.slima15\source\repos\TI45-08-08-2024\TI45-08-08-2024\bin\Debug\TI45-08-08-2024.exe
+C:\Users\wesley.slima15\source\repos\TI45-08-08-2024\TI45-08-08-2024\bin\Debug\TI45-08-08-2024.pdb
+C:\Users\wesley.slima15\source\repos\TI45-08-08-2024\TI45-08-08-2024\obj\Debug\TI45-08-08-2024.csproj.AssemblyReference.cache
+C:\Users\wesley.slima15\source\repos\TI45-08-08-2024\TI45-08-08-2024\obj\Debug\TI45_08_08_2024.Form1.resources
+C:\Users\wesley.slima15\source\repos\TI45-08-08-2024\TI45-08-08-2024\obj\Debug\TI45_08_08_2024.Properties.Resources.resources
+C:\Users\wesley.slima15\source\repos\TI45-08-08-2024\TI45-08-08-2024\obj\Debug\TI45-08-08-2024.csproj.GenerateResource.cache
+C:\Users\wesley.slima15\source\repos\TI45-08-08-2024\TI45-08-08-2024\obj\Debug\TI45-08-08-2024.csproj.CoreCompileInputs.cache
+C:\Users\wesley.slima15\source\repos\TI45-08-08-2024\TI45-08-08-2024\obj\Debug\TI45-08-08-2024.exe
+C:\Users\wesley.slima15\source\repos\TI45-08-08-2024\TI45-08-08-2024\obj\Debug\TI45-08-08-2024.pdb
+C:\Users\wesley.slima15\source\repos\TI45-08-08-2024\TI45-08-08-2024\obj\Debug\TI45_08_08_2024.Clientes.resources
+C:\Users\wesley.slima15\source\repos\TI45-08-08-2024\TI45-08-08-2024\obj\Debug\TI45_08_08_2024.Colaboradores.resources
+C:\Users\wesley.slima15\source\repos\TI45-08-08-2024\TI45-08-08-2024\obj\Debug\TI45_08_08_2024.Fornecedores.resources
+C:\Users\wesley.slima15\source\repos\TI45-08-08-2024\TI45-08-08-2024\obj\Debug\TI45_08_08_2024.Produtos.resources
